@@ -1,1 +1,2 @@
 code->preference->settings->check formatOnSave
+ctrl+alt+n -> run a file
