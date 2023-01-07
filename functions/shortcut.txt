@@ -1,0 +1,7 @@
+
+use end key
+use home key -> first of a line
+use ctrl+home key -> first of a page
+use alt+up/down key -> move a line of code
+use shift+alt+down key -> copy a line of code
+use control+/ key -> common a line of code

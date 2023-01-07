@@ -2,3 +2,5 @@ code->preference->settings->check formatOnSave
 ctrl+alt+n -> run a file （after install coder runner extention）
 Variable names should be descriptive and meaningful
 Lower case for variables, use underscore to seperate
+Rename file : git mv options oldFilename newFilename
+Move file : git mv filename foldername

@@ -1,0 +1,3 @@
+Comprehensions vs Map and Filter
+list(map(lambda:expression,items))=[expression for item in items]
+list(filter(lambda:expression,items))=[item for item in items if expression]

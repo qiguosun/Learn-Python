@@ -1,4 +1,2 @@
-# Learn-Python
--This is a python basic repository.
--All the contents are based on the course of CodeWithMosh.
--If you are interest in this class, please refer "https://codewithmosh.com/" for more details. 
+1.Arguments
+Diff between parameter and argument is that a parameter is the input you define to your function while the argument is the actual value for a given parameters
