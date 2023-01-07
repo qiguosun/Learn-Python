@@ -2,6 +2,7 @@
 # use list append() list pop()
 
 # queue
+from pprint import pprint
 from sys import getsizeof
 from array import array
 from collections import deque
@@ -109,3 +110,21 @@ first = {"x": 1}
 second = {"x": 10, "y": 2}
 combined = {**first, **second, "z": 1}
 print(combined)
+
+
+# exciese
+sentence = "This is a common interview question, try to find the char with largest frequency"
+char_frequency = {}
+for char in sentence:
+    if char in char_frequency:
+        char_frequency[char] += 1
+    else:
+        char_frequency[char] = 1
+pprint(char_frequency, width=1)
+
+
+char_frequency_sorted = sorted(
+    char_frequency.items(),
+    key=lambda kv: kv[1],
+    reverse=True)
+print(char_frequency_sorted[0])
