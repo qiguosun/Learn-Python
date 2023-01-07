@@ -1,2 +1,8 @@
-1.Arguments
-Diff between parameter and argument is that a parameter is the input you define to your function while the argument is the actual value for a given parameters
+#  Learn Python
+
+Tutorial for Python development basics and advance knowledge. Some Contents are motivated by [Mosh] (https://codewithmosh.com/).
+
+In addition, refer (https://www.makeareadme.com/) for README file edit method.
+
+
+
