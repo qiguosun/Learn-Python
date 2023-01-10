@@ -3,7 +3,9 @@ import ecommerce.shopping.sales as sales
 from ecommerce.shopping import sales
 import sys
 
+# all path, the first path is the current directory
 print(sys.path)
+# see attrubutes and methods
 print(dir(sales))
 calc_shipping()
 calc_tax()
